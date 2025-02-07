@@ -1,2 +1,2 @@
 # Web-Scraping
-Web Scraping -> Beautiful Soup Örnek Kodları
+Web Scraping -> Beautiful Soup & Selenium
